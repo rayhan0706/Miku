@@ -1,0 +1,296 @@
+Miku Theme 
+{
+  "name": "Miku Nakano - Silent Blue",
+  "description": "A dark aesthetic theme inspired by Miku Nakano featuring deep midnight navy tones, muted denim accents, and subtle auburn highlights.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Custom",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#7A8EB520"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#000000"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#1E293B",
+      "#2B3950"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1B1922",
+      "#1B1922"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#7A8EB51F"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#7A8EB533"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#000000"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#FFFFFF"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#0E1522D9"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#000000"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#E6EAF2",
+      "#E6EAF2"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#000000"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#14131A",
+      "#14131A"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#1E2A3C",
+      "#1E2A3C"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#202C3F",
+      "#202C3F"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#162030",
+      "#162030"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#25344B",
+      "#2B3D58"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#161519",
+      "#161519"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#282237",
+      "#29272E"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0E0D10",
+      "#0E0D10"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#121215",
+      "#121215"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#000000"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#000000"
+    ],
+    "BG_BACKDROP": [
+      "#12121070",
+      "#504863"
+    ],
+    "HOME_BACKGROUND": [
+      "#000000"
+    ],
+    "BORDER_FAINT": [
+      "#1C2738"
+    ],
+    "BORDER_STRONG": [
+      "#33445E"
+    ],
+    "BORDER_SUBTLE": [
+      "#243247"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#000000"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#000000"
+    ],
+    "CHANNEL_ICON": [
+      "#F4F6FA",
+      "#F4F6FA"
+    ],
+    "EMBED_BACKGROUND": [
+      "#000000"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#7F7F7F"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FFFFFF"
+    ],
+    "MENTION_BACKGROUND": [
+      "#7A8EB526"
+    ],
+    "MENTION_FOREGROUND": [
+      "#C8D6EC"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#F0F3F7",
+      "#F0F3F7"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#0E1522D9"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#141414"
+    ],
+    "STATUS_DANGER": [
+      "#C24157"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#C24157"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFFFFF"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#000000"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#000000"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#6CB6FF"
+    ],
+    "TEXT_MUTED": [
+      "#A6A6A6"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+    "TEXT_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "TEXT_SECONDARY": [
+      "#FFFFFF"
+    ],
+    "KEYBOARD": [
+      "#000000"
+    ],
+    "PANEL_BG": [
+      "#000000"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#000000"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#00000050",
+    "BRAND_260": "#FFFFFF",
+    "BRAND_360": "#FFFFFF",
+    "BRAND_560": "#000000",
+    "BRAND_500": "#6F88B3",
+    "RED_430": "#C24157",
+    "PRIMARY_800": "#222222",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_560": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PLUM_14": "#222222",
+    "PLUM_15": "#141414",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#000000"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#C26377",
+    "customOverlays": true
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/rayhan0706/Miku/refs/heads/main/Miku.jpg",
+    "alpha": 0.35,
+    "blur": 0
+  }
+}
+
