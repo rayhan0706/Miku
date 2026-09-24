@@ -1,0 +1,325 @@
+{
+  "name": "Hallownest: Echoes of the Void",
+  "description": "A Hollow Knight-inspired AMOLED theme shaped by the Abyss and the Void, with deep black tones and the haunting atmosphere of Hallownest.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Rexiê愛~",
+      "id": "1198310950789451879"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#203B57"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#0A1420"
+    ],
+    "CHAT_BACKGROUND": [
+      "#101C2A"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#355A78",
+      "#426B89"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1A2A3A",
+      "#1A2A3A"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#5A3544"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#2B4055"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#704353"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#667A91"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#172535"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#73869B"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#21384E"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#18283AEE"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#162535"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#203449"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#D7D9E5",
+      "#D7D9E5"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#1D3044"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#142333",
+      "#142333"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#101C2A"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#182A3C"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2B435A",
+      "#2B435A"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#29415A",
+      "#29415A"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#21384E",
+      "#21384E"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#4B3B55",
+      "#5B435E"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#111D2B",
+      "#111D2B"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1C3043",
+      "#20384D"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0D1825",
+      "#0D1825"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#142333",
+      "#142333"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#0A1420"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#0D1825"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#101C2A"
+    ],
+    "BG_BACKDROP": [
+      "#0A1420B8",
+      "#405C75"
+    ],
+    "HOME_BACKGROUND": [
+      "#0D1825"
+    ],
+    "BORDER_FAINT": [
+      "#65758A"
+    ],
+    "BORDER_STRONG": [
+      "#A97882"
+    ],
+    "BORDER_SUBTLE": [
+      "#536A80"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#162535"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1A2A3A"
+    ],
+    "CHANNEL_ICON": [
+      "#D7D9E5",
+      "#D7D9E5"
+    ],
+    "EMBED_BACKGROUND": [
+      "#162535"
+    ],
+    "HEADER_PRIMARY": [
+      "#F7F3F2"
+    ],
+    "HEADER_SECONDARY": [
+      "#D9D9E3"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#F7F3F2"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#E7C8CF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#8F9AAA"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D9D9E3"
+    ],
+    "MENTION_BACKGROUND": [
+      "#7B4656"
+    ],
+    "MENTION_FOREGROUND": [
+      "#FFF3F0"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#243B51"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#20384D"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#536A80"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#8E3F55"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#E7D9DD",
+      "#E7D9DD"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#DDE3EA",
+      "#DDE3EA"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#18283AEE"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#27313C"
+    ],
+    "STATUS_DANGER": [
+      "#A64F67"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#8E3F55"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFF3F0"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#263D52"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#17283A"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#567B78"
+    ],
+    "TEXT_LINK": [
+      "#8AAED3"
+    ],
+    "TEXT_MUTED": [
+      "#9AA5B3"
+    ],
+    "TEXT_NORMAL": [
+      "#E8E9EF"
+    ],
+    "TEXT_PRIMARY": [
+      "#F7F3F2"
+    ],
+    "TEXT_SECONDARY": [
+      "#D2D5DE"
+    ],
+    "KEYBOARD": [
+      "#101C2A"
+    ],
+    "PANEL_BG": [
+      "#0D1825"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#07111B"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#00000070",
+    "BRAND_260": "#E7C8CF",
+    "BRAND_360": "#D59AA8",
+    "BRAND_560": "#4B3440",
+    "BRAND_500": "#6E526E",
+    "ORANGE_260": "#F5D9D9",
+    "ORANGE_300": "#E9BFC4",
+    "ORANGE_330": "#DFA7B0",
+    "ORANGE_345": "#D99BA6",
+    "ORANGE_360": "#CF8D9A",
+    "ORANGE_400": "#C27D8A",
+    "ORANGE_430": "#B86E7D",
+    "ORANGE_460": "#AC6172",
+    "ORANGE_500": "#A35668",
+    "ORANGE_530": "#974B60",
+    "ORANGE_560": "#8B4257",
+    "ORANGE_600": "#7F394F",
+    "ORANGE_630": "#743447",
+    "ORANGE_660": "#682F40",
+    "ORANGE_700": "#5A2938",
+    "YELLOW_260": "#F4E9E3",
+    "YELLOW_300": "#E8D8D1",
+    "YELLOW_330": "#DCC9C3",
+    "YELLOW_345": "#D3C0BB",
+    "YELLOW_360": "#C8B5B2",
+    "YELLOW_400": "#B8A5A4",
+    "YELLOW_430": "#A49499",
+    "YELLOW_460": "#94858F",
+    "YELLOW_500": "#847781",
+    "YELLOW_530": "#746A75",
+    "YELLOW_560": "#655D69",
+    "YELLOW_600": "#57515D",
+    "YELLOW_630": "#4B4652",
+    "YELLOW_660": "#403C47",
+    "YELLOW_700": "#35323C",
+    "RED_430": "#8AAED3",
+    "PLUM_14": "#2B4055",
+    "PRIMARY_800": "#1B2D40",
+    "PLUM_1": "#F7F3F2",
+    "PLUM_22": "#17283A",
+    "PRIMARY_660": "#22384C",
+    "PRIMARY_700": "#1D3043",
+    "PRIMARY_560": "#2A435A",
+    "PRIMARY_600": "#263D52",
+    "PRIMARY_630": "#20364A",
+    "PLUM_15": "#27313C",
+    "PLUM_17": "#1B2D40",
+    "PLUM_18": "#17283A",
+    "PLUM_19": "#142333",
+    "PLUM_20": "#101C2A",
+    "PLUM_23": "#0D1825",
+    "PLUM_24": "#0A1420"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#F0B232",
+    "customOverlays": true
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/rayhan0706/Miku/refs/heads/main/Miku.jpg",
+    "alpha": 0.3,
+    "blur": 0
+  }
+}
